@@ -16,4 +16,5 @@ processing original data to be data which is accepted by deep learning.
 ![](https://github.com/ncu-dart/AR-LSTMs/blob/master/asset/architecture.png)
 
 figure: https://docs.google.com/document/d/1pVpeD-GXhAxPforZ_BfwTMLNvGZUljZKPjuLheWaNH0/edit?usp=sharing
+
 data: https://1drv.ms/f/s!Alvc4N5G4VPihRnqDChFbTRGx4IV
