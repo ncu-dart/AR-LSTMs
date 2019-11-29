@@ -17,4 +17,4 @@ processing original data to be data which is accepted by deep learning.
 
 figure: https://docs.google.com/document/d/1pVpeD-GXhAxPforZ_BfwTMLNvGZUljZKPjuLheWaNH0/edit?usp=sharing
 
-data: https://1drv.ms/f/s!Alvc4N5G4VPihRnqDChFbTRGx4IV
+data: https://1drv.ms/u/s!AkT3DV9_X67cguY1qzgL7tIGWgDx-Q?e=eDOwSc
